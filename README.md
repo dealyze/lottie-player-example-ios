@@ -1,0 +1,1 @@
+This is a simple lottie player for iOS that we use to verify that lottie animations play correctly
